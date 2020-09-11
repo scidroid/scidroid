@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ##### 🔭 I’m currently working on Carlos el botsito, a twitch ChatBot.
 ##### 🌱 I’m currently learning Python and JavaScript
