@@ -21,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Our computers run on sand, a post about silicon.](https://dev.to/scidroid/our-computers-run-on-sand-a-post-about-silicon-497h)
+- [Learning to code in Python: The Basics](https://dev.to/scidroid/learning-to-code-in-python-the-basics-ib3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
