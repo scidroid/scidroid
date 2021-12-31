@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **scidroid@scidroid.me**
 
-- 📄 Know about my experiences [https://scidroid.me/assets/img/Juan_Almanza_Resume_02-11-2021-19-53-29.pdf](https://scidroid.me/assets/img/Juan_Almanza_Resume_02-11-2021-19-53-29.pdf)
+- 📄 Know about my experiences [My resume](https://scidroid.me/resume)
 
 - ⚡ Fun fact **I got the second place in the OCC**
 
