@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your site is probably illegal](https://dev.to/scidroid/your-site-is-probably-illegal-i9n)
 - [An introduction to Git: My first commit](https://dev.to/scidroid/an-introduction-to-git-my-first-commit-45b1)
 - [Our computers run on sand, a post about silicon.](https://dev.to/scidroid/our-computers-run-on-sand-a-post-about-silicon-497h)
 - [Learning to code in Python: The Basics](https://dev.to/scidroid/learning-to-code-in-python-the-basics-ib3)
